@@ -1,0 +1,15 @@
+os
+requests
+json
+openai
+asyncio
+nltk
+ipython  # For IPython.display
+ipywidgets
+tqdm
+logging
+pandas
+time
+tiktoken
+numpy
+python-dotenv

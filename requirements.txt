@@ -1,14 +1,11 @@
 requests
-json
 openai
 asyncio
 nltk
-ipython  # For IPython.display
+ipython
 ipywidgets
 tqdm
-logging
 pandas
-time
 tiktoken
 numpy
 python-dotenv
